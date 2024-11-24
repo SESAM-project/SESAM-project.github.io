@@ -17,9 +17,11 @@ sections:
         size: cover
 
       text: |
-
         <br>
         SESAM aims to develop a comprehensive framework that enhances key development practices by integrating security seamlessly and sensibly. The project will focus on minimizing the disruption to developers’ workflows through automation and intelligent tool support.
+        <br>
+        The project is supported by the <a href="https://www.kks.se">KK Foundation</a>.
+      
         
   - block: collection
     content:
