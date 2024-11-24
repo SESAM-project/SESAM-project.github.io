@@ -6,17 +6,21 @@ type: landing
 
 sections:
   - block: hero
+
     content:
       title: |
-        Wowchemy
-        Research Group
+        **SE**cure software engineering through **S**ensible **A**uto**M**ation
+
       image:
         filename: welcome.jpg
+        postion: center
+        size: cover
+
       text: |
+
         <br>
+        SESAM aims to develop a comprehensive framework that enhances key development practices by integrating security seamlessly and sensibly. The project will focus on minimizing the disruption to developers’ workflows through automation and intelligent tool support.
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
   - block: collection
     content:
       title: Latest News
@@ -36,30 +40,30 @@ sections:
       view: card
       columns: '1'
   
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+  # - block: markdown
+  #   content:
+  #     title:
+  #     subtitle: ''
+  #     text:
+  #   design:
+  #     columns: '1'
+  #     background:
+  #       image: 
+  #         filename: welcome.jpg
+  #         filters:
+  #           brightness: 1
+  #         parallax: false
+  #         position: center
+  #         size: cover
+  #         text_color_light: true
+  #     spacing:
+  #       padding: ['20px', '0', '20px', '0']
+  #     css_class: fullscreen
 
   - block: collection
     content:
-      title: Latest Preprints
-      text: ""
+      title: Latest publications
+      text: "Here you will find the latest publications from the SESAM project."
       count: 5
       filters:
         folders:
@@ -74,7 +78,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./people/" cta_text="Meet the consortium →" %}}
     design:
       columns: '1'
 ---
