@@ -7,7 +7,7 @@
 
 appearance:
   # mode: light
-  theme_day: teal
+  theme_day: green
   # theme_night: minimal
   font: native
   font_size: L
