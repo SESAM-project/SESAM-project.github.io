@@ -12,7 +12,7 @@ sections:
         **SE**cure software engineering through **S**ensible **A**uto**M**ation
 
       image:
-        filename: welcome.png
+        filename: welcome_b.png
         postion: center
         size: cover
 

@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  mode: light
-  theme_day: rose
+  # mode: light
+  # theme_day: green
   # theme_night: minimal
   font: native
   font_size: L
