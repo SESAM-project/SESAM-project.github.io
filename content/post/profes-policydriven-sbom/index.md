@@ -1,5 +1,5 @@
 ---
-title: Beyond just a list of dependencies: what policy‑driven SBOMs reveal
+title: "Beyond just a list of dependencies: what policy‑driven SBOMs reveal"
 date: 2025-09-17
 authors: [Davide Fucci]
 image:
