@@ -25,7 +25,7 @@ sections:
         
   - block: collection
     content:
-      title: Latest News
+      title: Latest Posts
       subtitle:
       text:
       count: 5
@@ -62,18 +62,18 @@ sections:
   #       padding: ['20px', '0', '20px', '0']
   #     css_class: fullscreen
 
-  - block: collection
-    content:
-      title: Latest publications
-      text: "Here you will find the latest publications from the SESAM project."
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
+#- block: collection
+#   content:
+#     title: Project Publications
+#     text: "Here you will find the latest publications from the SESAM project."
+#     count: 5
+#     filters:
+#       folders:
+#         - publication
+#       publication_type: 'article'
+#   design:
+#     view: citation
+#     columns: '1'
 
   - block: markdown
     content:
