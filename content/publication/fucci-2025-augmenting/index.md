@@ -1,6 +1,7 @@
 ---
 title: 'Augmenting Software Bills of Materials with Software Vulnerability Description:
   A Preliminary Study on GitHub'
+slug: 'fucci-2025-augmenting'
 authors:
 - Davide Fucci
 - Massimiliano Di Penta
