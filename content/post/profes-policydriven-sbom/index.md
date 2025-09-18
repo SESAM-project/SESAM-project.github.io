@@ -33,7 +33,7 @@ Finally, we observed 384 unique licenses, although one in every five reported de
 
 ### What does that mean for you
 If you are an open source maintainer or software supplier, upgrade to current formats to avoid future compatibility gaps (e.g., when it comes to attestations).
-For security teams, consider that when present, SBOMs reveal non‑trivial medium/high‑severity exposure in the dependencies they document. It would make sense to document such vulnerabilities better by integrating SBOM with VEX. [A discussed previously]({{< relref "fucci-2025-augmenting" >}}), this can help communicate exploitability and prioritize remediation in line with time‑bound obligations (e.g., the one imposed by EU CRA).
+For security teams, consider that when present, SBOMs reveal non‑trivial medium/high‑severity exposure in the dependencies they document. It would make sense to document such vulnerabilities better by integrating SBOM with VEX. [A discussed previously]({{< relref "fse-sbom-vex" >}}), this can help communicate exploitability and prioritize remediation in line with time‑bound obligations (e.g., the one imposed by EU CRA).
 Finally, to facilitate the job of legal and compliance teams, the variety of downstream licenses and frequent missing license data argue for automated SBOM‑driven license checks early in the pipeline.
 
 ### Where do we go from here?

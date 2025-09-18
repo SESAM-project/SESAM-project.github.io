@@ -1,5 +1,6 @@
 ---
 title: First project publication at FSE25
+slug: fse-sbom-vex
 date: 2025-03-21 
 authors: [Davide Fucci]
 image:
