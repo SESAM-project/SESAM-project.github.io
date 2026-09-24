@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Prepraring for EU CRA"
+title: "Preparing for the EU Cyber Resilience Act: what are companies doing today?"
 subtitle: ""
 summary: ""
 authors: [Davide Fucci]
@@ -28,7 +28,6 @@ image:
 projects: []
 ---
 
-# Preparing for the EU Cyber Resilience Act: what are companies doing today?
 
 The EU Cyber Resilience Act (CRA) is changing what companies need to demonstrate about the security of their products. Secure development, vulnerability handling, software supply-chain transparency, and technical documentation are all central concerns. Reporting obligations for actively exploited vulnerabilities and severe security incidents have applied since 11 September 2026; the main obligations apply from 11 December 2027. [European Commission](https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act)
 
@@ -38,7 +37,7 @@ In our latest SESAM study, **“Preparing for the EU Cyber Resilience Act: A Stu
 
 ## The study
 
-We interviewed nine practitioners from four Swedish companies, two large enterprises (LEs) and two small and medium-sized enterprises (SMEs). The interviews took place in spring 2025 and covered security, development, verification, architecture, and technical-leadership roles.
+We interviewed nine practitioners from four Swedish companies, two large enterprises and two SMEs. The interviews took place in spring 2025 and covered security, development, verification, architecture, and technical-leadership roles.
 
 We examined current security practices, EU CRA interpretation, compliance planning, evidence artefacts, and organisational challenges. Our analysis considered both the security work participants described and their companies’ preparedness to demonstrate conformity through defined processes, ownership, and traceable evidence.
 
